@@ -1,4 +1,4 @@
-# FS_Framework_Condtruct
+# FS_Framework_Construct
 
 ## Introduction
 Fine Select ES6 is a JavaScript Single-Page-Application (SPA) Library designed for modern web development. This library utilizes ES6 standards to provide a range of functionalities for dynamic web page manipulation and form handling.
@@ -18,7 +18,7 @@ Fine Select ES6 is a JavaScript Single-Page-Application (SPA) Library designed f
     - `ContentMain.js`: Initializer for dynamic content and navigation setup.
   - `FormUtility/`:
     - `FormModel.js`: Model for form creation and management.
-    - `FormMain.js`: Entry point for form initialization.
+    - `FormMain.j`: Entry point for form initialization.
 
 ## Installation
 To use Fine Select ES6 in your project, clone this repository and include the scripts in your HTML file:
