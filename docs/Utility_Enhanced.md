@@ -1,4 +1,4 @@
-# New chat
+# Utility and it's role
 
 #### ChatGPT:
 Here's a list of the JavaScript files that define classes in the knowledge base:
